@@ -1,24 +1,22 @@
----
-
 ## Setup Instructions
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/eniomaiale1/ml-linear-regression.git
-    cd ml-linear-regression
-    ```
+
+   ```bash
+   git clone https://github.com/eniomaiale1/ml-linear-regression.git
+   cd ml-linear-regression
+   ```
 
 2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Run the project**:
-    ```bash
-    python3 LR.py
-    ```
-
----
+   ```bash
+   python3 LR.py
+   ```
 
 ## Steps to Follow
 
@@ -35,8 +33,6 @@
 3. **Create an Underfitted Model**:
    - Use LASSO regression with strong regularization to achieve an underfitted (almost linear) model.
    - Observe how the model underfits the dataset.
-
----
 
 ## Results and Analysis
 
@@ -73,8 +69,6 @@ The following plots illustrate the differences between the overfitted, robust, a
 3. **Underfitted Model**: Shows a nearly linear curve that fails to capture the underlying patterns in the data.
 
 These visualizations help in understanding the trade-offs between model complexity, performance, and interpretability.
-
----
 
 ## Acknowledgments
 
