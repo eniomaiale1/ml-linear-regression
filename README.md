@@ -1,3 +1,25 @@
+## Project Overview
+
+This project demonstrates the concepts of model complexity, overfitting, and underfitting in linear regression. By using polynomial regression and LASSO regularization, we explore how to balance model complexity and performance. The project includes creating an overfitted model with high-degree polynomial regression, a robust model with moderate regularization, and an underfitted model with strong regularization.
+
+### Objectives
+
+1. Obtain a highly complex model (overfitted model) using higher-order terms in polynomial regression.
+2. Gradually reduce model complexity using LASSO regularization to get a robust model.
+3. Further reduce model complexity to a first-degree polynomial, resulting in an underfitted model.
+
+### Resources
+
+- **Article**: [Linear Regression with Higher-Order Terms](https://data-sorcery.org/2009/06/04/linear-regression-with-higher-order-terms/)
+- **Data Set**: [NIST Linear Regression Data - Filip Dataset](https://www.itl.nist.gov/div898/strd/lls/data/Filip.shtml)
+
+---
+
+## Project Structure
+
+- `data.csv` - Contains the dataset used for training and evaluation.
+- `LR.py` - Python script for data loading, model training, and evaluation.
+
 ## Setup Instructions
 
 1. **Clone the repository**:
