@@ -70,6 +70,8 @@ The following plots illustrate the differences between the overfitted, robust, a
 
 These visualizations help in understanding the trade-offs between model complexity, performance, and interpretability.
 
+![Linear Regression Models](LinearRegression.png)
+
 ## Acknowledgments
 
 - [NIST](https://www.nist.gov/) for the dataset.
